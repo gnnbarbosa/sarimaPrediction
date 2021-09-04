@@ -8,7 +8,7 @@ Para execução do código, é necessária instalação de alguns pacotes. Eles 
 Para instalação, execute o comando:
 
 ```
-pip install -r requirements
+pip3 install -r requirements
 ```
 
 ### Execução no Jupyter ou Google Colab
